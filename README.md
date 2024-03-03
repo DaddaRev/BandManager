@@ -1,5 +1,5 @@
 # BandManager
-Band service for managing setlist, songs and events with an easy GUI for the final user.<br>
+Band service for managing setlist, songs and events with an easy GUI for the final user.<br><br>
 The program allows information to be maintained on multiple different band profiles, each 
 with its own set of repertoire songs and scheduled events. The user can log on to the system 
 in guest mode to access and view the data of the band of interest, or, using appropriate login 
