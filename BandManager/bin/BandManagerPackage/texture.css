@@ -1,0 +1,58 @@
+.custom-button {
+    -fx-background-color: #555;
+    -fx-text-fill: white;
+    -fx-font-size: 16;
+}
+
+.custom-box {
+	-fx-background-color: #333;
+}
+
+.custom-label {
+	-fx-text-fill: white;
+	-fx-font-size: 16;
+}
+
+.custom-label2 {
+	-fx-text-fill: white;
+	-fx-font-size: 16;
+	-fx-font-weight: bold;
+}
+
+.custom-title {
+	-fx-text-fill: white;
+	-fx-font-size: 22;	
+}
+
+.list-view .list-cell {
+    -fx-control-inner-background: #333;
+    -fx-control-inner-background-alt: #444;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+
+.list-view .list-cell:selected {
+    -fx-background-color: #555;
+    -fx-text-fill: white;
+}
+
+.table-view {
+    -fx-background-color: #333;
+    -fx-text-fill: white;
+}
+
+.table-row-cell {
+    -fx-control-inner-background: #333;
+    -fx-control-inner-background-alt: #444;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #555;
+    -fx-text-fill: white;
+}
+
+.table-cell {
+    -fx-alignment: CENTER;
+}
