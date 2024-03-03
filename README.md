@@ -6,4 +6,5 @@ in guest mode to access and view the data of the band of interest, or, using app
 credentials, can log on to the system as a band profile and edit the songs and events in the 
 database.<br>
 
-Last version released on 1/03/2024.
+Last version released on 1/03/2024.<br><br>
+**Read the user manual for a deeper understanding --> BandManagerManual.pdf**
