@@ -10,4 +10,4 @@ Last version released on 1/03/2024.<br><br>
 **Read the user manual for a deeper understanding --> BandManagerManual.pdf**
 
 ## Authors
-- [Davide Reverberi](https://www.github.com/DaddaOperator)
+- [Davide Reverberi](https://www.github.com/DaddaRev)
